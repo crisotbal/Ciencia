@@ -46,7 +46,7 @@ def IQR(d):
 # In[11]:
 
 
-def Percentil(n):
+def Percentil(d):
     """
     Calcula los cuartiles Q1 (25%) y Q3 (75%) de un conjunto de datos.
 
