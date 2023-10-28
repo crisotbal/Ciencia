@@ -150,10 +150,10 @@ def Promedio(x):
 
 # ## Mediana
 
-# In[10]:
+# In[2]:
 
 
-def mediana(m):
+def mediana(g):
     """
     Calcula la mediana de una lista de datos.
 
